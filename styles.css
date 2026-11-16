@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "DMSans";
+    src: url('assets/fonts/DMSans-VariableFont_opsz,wght.ttf') format('ttf');
+}
+
+.attribution { 
+    font-size: 0.6875rem; text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
