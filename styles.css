@@ -1,6 +1,16 @@
-@font-face {
+/* @font-face {
     font-family: "DMSans";
     src: url('assets/fonts/DMSans-VariableFont_opsz,wght.ttf') format('ttf');
+} */
+
+/* DEVICES */
+@media(max-width: 27.5rem) {
+    /* styling for viewports smaller than 440px */
+    main {
+        /* display: flex;
+        flex-direction: column;
+        grid-template-columns: ; */
+    }
 }
 
 .attribution { 
